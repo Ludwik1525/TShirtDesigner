@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MaleMat
+  m_Shader: {fileID: 4800000, guid: d8c333cf7e7ccbd43b43fee594923c2a, type: 3}
+  m_ShaderKeywords: _ENABLE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AnimTex:
+        m_Texture: {fileID: 2800000, guid: 0fbe488f1967b1c4c90f9a7baf8981c8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: cdd8072a5471c0d42a7da26928ae781a, type: 3}
+        m_Scale: {x: 3.82, y: 3.96}
+        m_Offset: {x: -0, y: -0}
+    - _MainTex2:
+        m_Texture: {fileID: 2800000, guid: 37d18bacab2f9d44987cad64a30ca24e, type: 3}
+        m_Scale: {x: 1.46, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondaryTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SquareTex:
+        m_Texture: {fileID: 2800000, guid: cdd8072a5471c0d42a7da26928ae781a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _CenterX: 0.3
+    - _CenterY: 0.1
+    - _CircleSize: 0.39
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _Hardness: 30.8
+    - _InnerRadius: -54.9
+    - _IsAnimOn: 1
+    - _MaskHardness: 1
+    - _MaskInnerRadius: -0.5
+    - _MaskOuterRadius: 0.5
+    - _Metallic: 0
+    - _Mode: 0
+    - _ModelType: 0
+    - _MyBool: 0
+    - _MyInt: 1.51
+    - _MyInt2: 1.12
+    - _MySlider: 0.07
+    - _OcclusionStrength: 1
+    - _OuterRadius: -12.32
+    - _Parallax: 0.02
+    - _PositionX: 0.194
+    - _PositionY: 0.471
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SquareSize: 0.47
+    - _SrcBlend: 1
+    - _TexType: 0
+    - _UVSec: 0
+    - _UselessNumber: 0
+    - _VariableB: 1.03
+    - _VariableT: 0.64
+    - _Variables: 0.93
+    - _ZWrite: 1
+    - _enable: 1
+    - _outline_thickness: 0.05
+    m_Colors:
+    - _CircleCenter: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.6345906, g: 0.36917415, b: 0.36917415, a: 1}
+    - _Color2: {r: 1, g: 0, b: 0, a: 1}
+    - _Color3: {r: 0.27909568, g: 0.44450846, b: 0.6916183, a: 1}
+    - _Color4: {r: 0.0015307637, g: 0.4056604, b: 0.0015307637, a: 1}
+    - _Color5: {r: 0.31132078, g: 0.08047347, b: 0.23174115, a: 1}
+    - _Color6: {r: 0.06653607, g: 0.14924444, b: 0.8396226, a: 1}
+    - _Distort: {r: 20.55, g: 0.5, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Helper: {r: 1, g: 1, b: 1, a: 1}
+    - _MaskColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MaskDistort: {r: 0.5, g: 0.5, b: 1, a: 1}
+    - _SquareCenter: {r: 1, g: 1, b: 1, a: 1}
+    - _outline_color: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
